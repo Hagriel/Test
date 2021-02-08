@@ -7,7 +7,7 @@ exports.handler = async (event, context, callback) => {
     user: 'admin',
     password: '',
     server: '',
-    database: 'SALTO_SPACE',
+    database: 'SALTO_SPACE_',
   };
 
   try {
